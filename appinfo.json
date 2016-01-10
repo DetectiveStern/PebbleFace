@@ -7,7 +7,7 @@
         "location"
     ],
     "companyName": "DetectiveStern",
-    "longName": "Ish",
+    "longName": "HandWritten",
     "projectType": "native",
     "resources": {
         "media": [
@@ -19,7 +19,7 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "Ish",
+    "shortName": "HandWritten",
     "targetPlatforms": [
         "aplite",
         "basalt",
