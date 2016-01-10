@@ -1,0 +1,33 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "DetectiveStern",
+    "longName": "Ish",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Handwriting.ttf",
+                "name": "FONT_HANDWRITING_72",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Ish",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "5fad3fa9-c676-4312-9b94-29f85d00edc3",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
